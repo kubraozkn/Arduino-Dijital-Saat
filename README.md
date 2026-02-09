@@ -19,5 +19,5 @@ Teknik Kazanımlar
 Gömülü sistemlerde "interrupt" (kesme) mimarisinin çalışma prensibi öğrenildi.
 Düşük seviyeli (Low-level) programlama ve donanım kaynaklarının verimli kullanımı üzerine deneyim kazanıldı. 
 
-<img width="876" height="425" alt="Ekran görüntüsü 2026-02-09 120215" src="https://github.com/user-attachments/assets/5b91b4fa-672c-472c-9c62-8c5586902590" />
-<img width="729" height="423" alt="Ekran görüntüsü 2026-02-09 120240" src="https://github.com/user-attachments/assets/fc63eccd-3505-45c5-ab99-e63737e5fc4c" />
+<img width="1017" height="557" alt="Ekran görüntüsü 2026-02-09 122111" src="https://github.com/user-attachments/assets/859c0f56-cb4a-495c-adf3-47fed64a7287" />
+<img width="936" height="500" alt="Ekran görüntüsü 2026-02-09 122152" src="https://github.com/user-attachments/assets/7561a5e9-1d72-4b73-95aa-c81190a3c466" />
