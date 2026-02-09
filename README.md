@@ -17,7 +17,7 @@ Görsel Geribildirim: Zamanlama durumuna göre LED animasyonları ile kullanıc�
 
 Teknik Kazanımlar
 Gömülü sistemlerde "interrupt" (kesme) mimarisinin çalışma prensibi öğrenildi.
-Düşük seviyeli (Low-level) programlama ve donanım kaynaklarının verimli kullanımı üzerine deneyim kazanıldı.
+Düşük seviyeli (Low-level) programlama ve donanım kaynaklarının verimli kullanımı üzerine deneyim kazanıldı. 
 
-
-
+<img width="876" height="425" alt="Ekran görüntüsü 2026-02-09 120215" src="https://github.com/user-attachments/assets/5b91b4fa-672c-472c-9c62-8c5586902590" />
+<img width="729" height="423" alt="Ekran görüntüsü 2026-02-09 120240" src="https://github.com/user-attachments/assets/fc63eccd-3505-45c5-ab99-e63737e5fc4c" />
